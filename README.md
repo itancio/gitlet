@@ -1,2 +1,2 @@
 # gitlet
-A short program that mimics some functionality of a version control program
+A short program that mimics some functionality of git's version control
